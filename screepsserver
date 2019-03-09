@@ -12,7 +12,7 @@ bold="\033[1m"
 default="\e[0m"
 
 # Node maximum version to install.
-nodeVersionX=6
+nodeVersionX=8
 
 # Directory where the screepsServer is cloned.
 rootDir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
